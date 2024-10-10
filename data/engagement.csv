@@ -1,0 +1,16 @@
+login_id,customer_id,login_date,activity_type,platform
+301,1,2024-01-10,login,mobile_app
+302,2,2024-09-15,purchase,web
+303,3,2024-08-20,login,mobile_app
+304,4,2024-02-25,purchase,mobile_app
+305,5,2024-01-12,login,web
+306,6,2024-09-18,login,mobile_app
+307,7,2024-08-22,purchase,web
+308,8,2023-11-30,login,mobile_app
+309,9,2024-07-10,login,mobile_app
+310,10,2024-01-12,purchase,web
+311,11,2024-06-22,login,mobile_app
+312,12,2024-05-15,purchase,web
+313,13,2024-09-28,login,mobile_app
+314,14,2023-10-30,login,web
+315,15,2024-09-22,login,mobile_app

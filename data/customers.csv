@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,age,gender,location
+1,Deepak,Kumar,30,Male,Barabanki
+2,Minakshi,Tiwari,28,Femal,Lucknow
+3,Amit,Sharma,35,Male,Delhi
+4,Priya,Verma,27,Female,Jaipur
+5,Rohit,Singh,40,Male,Mumbai
+6,Sneha,Choudhary,32,Female,Pune
+7,Vivek,Patel,29,Male,Ahmedabad
+8,Anjali,Gupta,26,Female,Bengaluru
+9,Rakesh,Yadav,33,Male,Kanpur
+10,Neha,Joshi,25,Female,Chennai
+11,Saurabh,Rana,31,Male,Kolkata
+12,Kavita,Mishra,34,Female,Bhopal
+13,Arjun,Reddy,36,Male,Hyderabad
+14,Neha,Jain,31,Female,Gurgaon
+15,Rohit,Shukla,39,Male,Noida

@@ -1,0 +1,57 @@
+complaint_id,customer_id,complaint_date,complaint_description,complaint_status
+201,1,2023-11-25,"Late delivery",Resolved
+202,2,2024-01-15,"Damaged product received",Unresolved
+203,3,2023-12-05,"Payment issue",Resolved
+204,4,2023-10-20,"Refund not processed",Resolved
+205,5,2023-09-10,"Poor packaging",Resolved
+206,6,2024-01-02,"Wrong item delivered",Unresolved
+207,7,2023-11-30,"Delayed service",Resolved
+208,8,2023-12-25,"Inaccurate product description",Resolved
+209,9,2023-08-20,"Multiple failed payments",Resolved
+210,10,2023-07-18,"Customer service unresponsive",Resolved
+211,11,2023-06-12,"Late refund processing",Resolved
+212,12,2023-11-15,"Product never delivered",Unresolved
+213,13,2024-01-08,"Faulty product received",Resolved
+214,14,2023-09-28,"Incorrect item in order",Resolved
+215,15,2023-10-10,"Delayed shipment",Unresolved
+216,1,2024-01-15,"Delayed delivery",Resolved
+217,1,2024-01-20,"Product damaged",Resolved
+218,1,2024-01-22,"Wrong item delivered",Resolved
+219,1,2024-01-25,"Refund not processed",Resolved
+220,1,2024-01-28,"Late refund",Unresolved
+221,1,2024-01-10,"Incorrect billing",Unresolved
+222,6,2024-01-18,"Multiple failed payments",Unresolved
+223,1,2024-01-15,"Delayed delivery",Resolved
+224,1,2024-01-20,"Product damaged",Resolved
+225,1,2024-01-22,"Wrong item delivered",Resolved
+226,1,2024-01-25,"Refund not processed",Resolved
+227,1,2024-01-28,"Late refund",Unresolved
+228,1,2024-01-10,"Incorrect billing",Unresolved
+229,8,2023-12-25,"Inaccurate product description",Resolved
+230,8,2023-12-25,"Inaccurate product description",Resolved
+231,8,2023-12-25,"Inaccurate product description",Resolved
+232,8,2023-12-25,"Inaccurate product description",Resolved
+233,8,2023-12-25,"Inaccurate product description",Resolved
+234,8,2023-12-25,"Inaccurate product description",Resolved
+235,8,2023-12-25,"Inaccurate product description",Resolved
+236,8,2023-12-25,"Inaccurate product description",Resolved
+237,8,2023-12-25,"Inaccurate product description",Resolved
+238,8,2023-12-25,"Inaccurate product description",Resolved
+239,6,2024-01-18,"Multiple failed payments",Unresolved
+240,2,2024-01-15,"Delayed delivery",Resolved
+241,2,2024-01-20,"Product damaged",Resolved
+242,2,2024-01-22,"Wrong item delivered",Resolved
+243,2,2024-01-25,"Refund not processed",Resolved
+244,2,2024-01-28,"Late refund",Unresolved
+245,2,2024-01-10,"Incorrect billing",Unresolved
+246,2,2023-12-25,"Inaccurate product description",Resolved
+247,2,2023-12-25,"Inaccurate product description",Resolved
+248,8,2023-12-25,"Inaccurate product description",Resolved
+249,8,2023-12-25,"Inaccurate product description",Resolved
+250,8,2023-12-25,"Inaccurate product description",Resolved
+251,8,2023-12-25,"Inaccurate product description",Resolved
+252,8,2023-12-25,"Inaccurate product description",Resolved
+253,8,2023-12-25,"Inaccurate product description",Resolved
+254,8,2023-12-25,"Inaccurate product description",Resolved
+255,8,2023-12-25,"Inaccurate product description",Resolved
+256,6,2024-01-18,"Multiple failed payments",Unresolved
